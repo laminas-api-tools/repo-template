@@ -1,6 +1,6 @@
 # api-tools-{component}
 
-[![Build Status](https://travis-ci.org/laminas-api-tools/api-tools-{component}.svg?branch=master)](https://travis-ci.org/laminas-api-tools/api-tools-{component})
+[![Build Status](https://travis-ci.com/laminas-api-tools/api-tools-{component}.svg?branch=master)](https://travis-ci.com/laminas-api-tools/api-tools-{component})
 [![Coverage Status](https://coveralls.io/repos/github/laminas-api-tools/api-tools-{component}/badge.svg?branch=master)](https://coveralls.io/github/laminas-api-tools/api-tools-{component}?branch=master)
 
 This library provides …
